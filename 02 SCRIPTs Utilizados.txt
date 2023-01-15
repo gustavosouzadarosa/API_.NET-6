@@ -1,0 +1,26 @@
+
+INSERT INTO Produto (Descricao, Situacao, DtFabricacao, DtValidade)
+       VALUES ('Produto de Teste 1', 1, GETDATE(), GETDATE() + 1);
+
+INSERT INTO Produto (Descricao, Situacao, DtFabricacao, DtValidade)
+       VALUES ('Produto de Teste 2', 1, GETDATE(), GETDATE() + 1);
+
+INSERT INTO Produto (Descricao, Situacao, DtFabricacao, DtValidade)
+       VALUES ('Produto de Teste 3', 0, GETDATE(), GETDATE() + 1);
+
+INSERT INTO Produto (Descricao, Situacao, DtFabricacao, DtValidade)
+       VALUES ('Produto de Teste 4', 1, GETDATE(), GETDATE() + 1);
+
+INSERT INTO Produto (Descricao, Situacao, DtFabricacao, DtValidade)
+       VALUES ('Produto de Teste 5', 1, GETDATE(), GETDATE() + 1);
+
+INSERT INTO Fornecedor(Descricao, Situacao)
+       VALUES ('Fornecedor 1', 1);
+
+INSERT INTO Fornecedor(Descricao, Situacao)
+       VALUES ('Fornecedor 2', 1);
+
+SELECT * FROM Fornecedor ORDER BY Codigo ASC;
+
+SELECT * FROM Produto ORDER BY Codigo ASC;
+
