@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\Service.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj": {
+    "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\Infra.csproj": {
+    "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\Service.csproj": {
+    "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -189,11 +189,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj"
+              "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Infra\\Infra.csproj"
+              "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Infra\\Infra.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0SxLxxaN66PqrPntuwOAVSrYTvrDT4zjk26q6BArZCf4uPG31u8Wbq5SFtsl5nY17+K3mpGUIZkcL6JPVhVGzA==",
+  "dgSpecHash": "Sy4csspuTAUxPizxNY7xshhZJsLNiUA23jG0qeRJlsW6RLcGo9ezOv8KrYcSfzs1v4kBt64muXt+VQxMRshl9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

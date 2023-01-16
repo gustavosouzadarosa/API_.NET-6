@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kIVkvX6Q+1MQb0qB6Qmu0AMy7IIwY9Sl8gHYmsotPpTThDIZ6KrFqGFRKwQuMLoWr2wZI0uIOkctpZRWFTS0Bg==",
+  "dgSpecHash": "2rqZqekdSgtWVuiw0aq4pi3v6FtdoMwBDCoftWvV4NsWKUnCpARr92V58J+sCUn46W2ZWnakPs/f4fnkp3faTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vVzBmi4UNoaHBI7FOKjzweanS++MC6ZgC0qHPfH6q1InLKCtl+B4WaWsSIscC8ZctbnA/2Ypb1B70f6bI5fvTQ==",
+  "dgSpecHash": "p2maO8jXubmi3k5ehyNPfGccaOyG1/H5tnXYa67w7YgtCyoFGJTTiICwrz3RME6N6gM9M9Jv7hFgCybzaXyU0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Teste Prático\\TestePraticoAPI\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\GIT\\TestePraticoAPI\\TestePraticoAPI\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
