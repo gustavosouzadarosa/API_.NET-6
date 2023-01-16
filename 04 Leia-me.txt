@@ -1,0 +1,29 @@
+Teste Prático de Desenvolvimento: 
+API .NET CORE 6, EntityFramework, SQL Server
+e Automapper realizado nos dias 14 e 15 de janeiro de 2023.
+
+Atualmente estou desempregado e na última sexta feira fiz uma entrevista
+onde foi requisitado um teste prático.
+Gravei um vídeo falando sobre os requisitos do teste,
+minhas escolhas de tecnologia, mostrando o resultado final da aplicação, 
+debugando, explicando o código, 
+tentando sempre definir os conceitos 
+e demonstrar o conhecimento por traz das decisões tomadas. 
+Publiquei a gravação no YouTube e disponibilizei o projeto no GitHub. 
+Foi a minha primeira experiência criando este tipo de conteúdo em vídeo, 
+portanto fiquei um pouco nervoso e acabei trocando as palavras
+algumas vezes ao longo de uma hora de gravação.
+Deixei uma errata no comentário do vídeo indicando o minuto e a correção.
+Foi uma aplicação desenvolvida em mais ou menos dez horas, 
+então tem muito o que melhorar e incrementar. 
+Fico a disposição para conversas e feedbacks construtivos.
+
+Obrigado.
+
+Errata: 
+
+- Por volta dos 3 minutos eu escrevi "PostgreSQL" e "entre" errado.
+
+- Por volta dos 12 minutos, ao demonstrar o "Mapping" do Entity, eu troco diversas vezes a palavra "Coluna" por "Tabela".
+
+- Por volta dos 18 minutos, ao discorrer sobre DDD, quando eu disse que a parte de "Integrações" era uma outra camada, na verdade os outros "Seguimentos" eram camadas, mas as "Integrações" ficaram em outra SOLUÇÃO.
